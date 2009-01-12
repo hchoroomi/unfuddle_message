@@ -4,8 +4,8 @@ $:.unshift(File.dirname(__FILE__)) unless
 require 'rubygems'
 require 'net/https'
 require 'unfuddle_message/pop' # POP3 lib from Ruby 1.9 with SSL support
-require 'tmail' # gem to be installed
-require 'hpricot'
+require 'tmail' # gem
+require 'hpricot' # gem
 require 'open-uri'
 
 setting = YAML.load(

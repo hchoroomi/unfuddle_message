@@ -13,6 +13,7 @@ FIX (describe your package)
 == REQUIREMENTS:
 
 * [sudo] gem install tmail 
+* [sudo] gem install hpricot
 
 == LICENSE:
 
