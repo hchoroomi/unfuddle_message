@@ -1,0 +1,13 @@
+History.txt
+Manifest.txt
+PostInstall.txt
+README.rdoc
+Rakefile
+lib/unfuddle_message.rb
+script/console
+script/destroy
+script/generate
+spec/spec.opts
+spec/spec_helper.rb
+spec/unfuddle_message_spec.rb
+tasks/rspec.rake

@@ -1,0 +1,14 @@
+unfuddle:
+  subdomain: ''
+  username: ''
+  password: ''
+  ssl: false
+  project_id: 12345
+
+pop3:
+  server: 'pop.gmail.com'
+  port: 995
+  username: ''
+  password: ''
+  delete : false
+
