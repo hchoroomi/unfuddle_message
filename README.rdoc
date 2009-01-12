@@ -4,9 +4,9 @@
 
 == DESCRIPTION:
 
-cp config/settings.yml.examlpe config/settings.yml
-# update settings.yml
-./bin/unfuddle_message 
+  cp config/settings.yml.examlpe config/settings.yml
+  # update settings.yml
+  ./bin/unfuddle_message 
 
 FIX (describe your package)
 
